@@ -448,7 +448,8 @@ header .logo {
 
 
 section.section {
-	padding: 100px 0 80px;
+	/* padding: 100px 0 80px; */
+	padding: 50px 0 30px;
 }
 section.section h4 {
 	text-align: center;
@@ -482,7 +483,8 @@ section.spacer {
 }
 
 .spacer.green,.section.green {
-	background:#1bac91;
+	/* background:#1bac91; */
+	background:#09828c;
 }
 
 .spacer.green,.section.green h4 {
@@ -1717,3 +1719,13 @@ i.icon-white {
 	height: 33px;
 }
 
+.link-url {
+	text-decoration: underline;
+	font-weight: bolder;
+	color: #09828c;
+}
+
+.ikon-kanan {
+	color: #09828c;
+	margin-right: 6px;
+}
