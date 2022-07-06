@@ -481,6 +481,17 @@ section.spacer {
 	padding:60px 0 25px;
 	color:#fcfcfc;
 }
+section.spacer.feedback {
+	padding:10px 0;
+	color:#fcfcfc;
+}
+section.spacer.feedback .row {
+	margin-bottom: 15px;
+}
+section.spacer.feedback p {
+	padding-top: 15px;
+	font-weight: bolder;
+}
 
 .spacer.green,.section.green {
 	/* background:#1bac91; */
@@ -1047,7 +1058,7 @@ footer ul.social-networks li i {
 }
 
 footer ul.social-networks li a {
-	color: #5e5e5e;
+	color: #ddd;
 	margin: 0 5px;
 }
 
@@ -1629,7 +1640,7 @@ i.icon-white {
 	 padding-left: 20px;
 	}	
 	.navbar-inverse .navbar-inner {
-		padding:0 20px 30px;
+		padding:0 20px 2px;
 	}
 	
 	.nav-collapse {
@@ -1721,11 +1732,29 @@ i.icon-white {
 
 .link-url {
 	text-decoration: underline;
+	text-underline-position: under;
 	font-weight: bolder;
 	color: #09828c;
+}
+
+.link-url:hover {
+	text-decoration-thickness: 3px;
 }
 
 .ikon-kanan {
 	color: #09828c;
 	margin-right: 6px;
+}
+
+.lapor-masalah {
+	margin-top: 30px;
+	float: right;
+}
+
+footer .copyright a, li a {
+	text-decoration: underline;
+	text-underline-position: under;
+}
+footer .row {
+	margin-bottom: 5px;
 }
