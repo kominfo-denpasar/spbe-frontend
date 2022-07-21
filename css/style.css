@@ -1773,3 +1773,20 @@ footer .row {
     font-weight: bold;
     font-size: 16px;
 }
+.no-styles {
+	text-decoration: none;
+	list-style: none;
+}
+.list-content {
+	list-style: disclosure-closed;
+	margin-left: 20px;
+}
+.content-next {
+	line-height: 24px;
+}
+.content-next .left, .content-next .right {
+	float: left;
+}
+.content-next .right {
+	padding-left: 12px;
+}
