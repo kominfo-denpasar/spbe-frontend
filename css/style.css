@@ -1797,3 +1797,14 @@ footer .row {
 .content-next .right {
 	padding-left: 12px;
 }
+.input-form {
+	height: 35px !important;
+	border-radius: 0 !important;
+	border: 2px solid #000 !important;
+	margin: 0 !important;
+	color: #000;
+	width: 100%;
+}
+.pencarian p {
+	color: #000;
+}
