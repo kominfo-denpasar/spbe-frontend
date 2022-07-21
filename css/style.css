@@ -183,7 +183,7 @@ body, input, textarea {
 }
 
 a {
-  color: #09828c;
+  color: #1768ff;
   text-decoration: none;
 }
 
@@ -494,8 +494,8 @@ section.spacer.feedback p {
 }
 
 .spacer.green,.section.green {
-	/* background:#1bac91; */
-	background:#09828c;
+	/* background:#1768ff; */
+	background:#1768ff;
 }
 
 .spacer.green,.section.green h4 {
@@ -1396,8 +1396,8 @@ i.icon-white {
 .btn-primary {
   color: #ffffff;
   text-shadow: none;
-  background-color: #09828c;
-  *background-color: #09828c;
+  background-color: #1768ff;
+  *background-color: #1768ff;
   background-image: none;
   border-color: none;
   filter:none;
@@ -1475,8 +1475,8 @@ i.icon-white {
 .btn-success {
   color: #ffffff;
   text-shadow: none;
-  background-color: #1bac91;
-  *background-color: #1bac91;
+  background-color: #1768ff;
+  *background-color: #1768ff;
   background-image: none;
   border-color: none;
   filter:none;
@@ -1734,7 +1734,7 @@ i.icon-white {
 	text-decoration: underline;
 	text-underline-position: under;
 	font-weight: bolder;
-	color: #09828c;
+	color: #1768ff;
 }
 
 .link-url:hover {
@@ -1742,7 +1742,7 @@ i.icon-white {
 }
 
 .ikon-kanan {
-	color: #09828c;
+	color: #1768ff;
 	margin-right: 6px;
 }
 
