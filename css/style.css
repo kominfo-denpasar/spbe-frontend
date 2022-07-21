@@ -183,7 +183,7 @@ body, input, textarea {
 }
 
 a {
-  color: #454545;
+  color: #09828c;
   text-decoration: none;
 }
 
@@ -1780,6 +1780,13 @@ footer .row {
 .list-content {
 	list-style: disclosure-closed;
 	margin-left: 20px;
+}
+.list-content-lain {
+	list-style: none;
+	/* margin-left: 20px; */
+}
+.list-content-lain li, .list-content li {
+	padding-bottom: 6px;
 }
 .content-next {
 	line-height: 24px;
