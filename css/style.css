@@ -1808,3 +1808,9 @@ footer .row {
 .pencarian p {
 	color: #000;
 }
+.post-intro {
+	font-size: 120%;
+}
+.post-tags p{
+	font-size: 80%;
+}
