@@ -478,7 +478,7 @@ section.green p {
 /* === section spacer === */
 
 section.spacer {
-	padding:60px 0 25px;
+	padding:60px 0 0px;
 	color:#fcfcfc;
 }
 section.spacer.feedback {
@@ -842,11 +842,11 @@ section#blog {
 }
 
 
-
 /* === section about === */
 
 section#about {
-	background:#f2f2f2;
+	/* background:#f2f2f2; */
+	background:#fff;
 }
 
 .people {
